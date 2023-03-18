@@ -79,7 +79,7 @@
   .btn3 {
 	background-color: rgb(12, 47, 160);
 	border: none;
-	padding: 9px;
+	padding: 10px;
 	cursor: pointer;
   }
   .btn4 {
